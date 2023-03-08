@@ -5,7 +5,7 @@
       "name": "Carlos Daniel Roseno de Lima",
       "cpf": "287.204.461-28",
       "whatsapp": "(96) 2947-0210",
-      "age": 17
+      "age": "17"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
     },
     {
       "id": 4,
-      "name": "json-server",
-      "cpf": "15.991.250-7",
+      "name": "Mariana Beatriz da Mata",
+      "cpf": "587.153.544-58",
       "whatsapp": "(86) 3825-1237",
       "age": 16
     }
