@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Carlos Daniel Roseno de Lima",
+      "cpf": "287.204.461-28",
+      "whatsapp": "(96) 2947-0210",
+      "age": 17
+    },
+    {
+      "id": 2,
+      "name": "Leonardo Samuel Francisco Corte Real",
+      "cpf": "676.278.340-66",
+      "whatsapp": "(11) 2935-1240",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "Lavínia Nicole da Mata",
+      "cpf": "587.153.544-58",
+      "whatsapp": "(27) 3873-0034",
+      "age": 19
+    },
+    {
+      "id": 4,
+      "name": "json-server",
+      "cpf": "15.991.250-7",
+      "whatsapp": "(86) 3825-1237",
+      "age": 16
+    }
+  ]
+}
